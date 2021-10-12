@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "pc",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -44,7 +44,7 @@
     "versionPublish": "5.4.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-128x132_1.png",
+    "favicon": false,
     "mbrsiteDomain": "2q8unrldey",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
